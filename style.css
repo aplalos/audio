@@ -1,0 +1,32 @@
+h2 {
+  color: #fff;
+}
+
+h3 {
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.side {
+  max-width: 240px;
+  width: 100%;
+  background-color: #000;
+}
+
+.mainbox {
+  left: 240px;
+  max-width: 986px;
+  width: 100%;
+  background: blue;
+}
+
+.logo {
+  max-width: 64px;
+  width: 100%;
+}
